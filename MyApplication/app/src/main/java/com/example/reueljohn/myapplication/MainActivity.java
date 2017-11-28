@@ -1,5 +1,6 @@
 package com.example.reueljohn.myapplication;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -29,5 +30,11 @@ public class MainActivity extends AppCompatActivity {
         count++;
 
         showCountText.setText(count.toString());
+    }
+
+    public void randomMe(View view){
+        Intent intent = new Intent(this, SecondActivity.class);
+
+        startActivity(intent);
     }
 }

@@ -40,6 +40,7 @@
         android:layout_marginTop="100dp"
         android:background="@color/button_color"
         android:text="Random"
+        android:onClick="randomMe"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
