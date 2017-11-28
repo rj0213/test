@@ -9,6 +9,9 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
+    private static final String TOTAL_COUNT = "total_count";
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -33,8 +36,16 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void randomMe(View view){
-        Intent intent = new Intent(this, SecondActivity.class);
+        Intent randomIntent = new Intent(this, SecondActivity.class);
 
-        startActivity(intent);
+        TextView showCountText = (TextView) findViewById(R.id.textView);
+
+        String countString = showCountText.getText().toString();
+
+        int count = Integer.parseInt(countString);
+
+        randomIntent.putExtra(TOTAL_COUNT, count);
+
+        startActivity(randomIntent);
     }
 }
