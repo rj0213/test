@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/reueljohn/Downloads/android-fundamentals-master/SimpleCalc/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ldrtl-v23/values-ldrtl-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/reueljohn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/2c3e4d1f5a70bb0e0971cc76313ccfe0/res/values-ldrtl-v23/values-ldrtl-v23.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "240",
+                        "endColumns": "112",
+                        "endOffsets": "348"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
