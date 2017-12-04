@@ -22,5 +22,13 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <style name="SportsDetailTitle" parent="TextAppearance.AppCompat.Headline">
+        
+    </style>
+    
+    <style name="SportsDetailText" parent="TextAppearance.AppCompat.Subhead">
+
+
+    </style>
 
 </resources>
