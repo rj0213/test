@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notification Scheduler</string>
+    <string name="job_service">Job Service</string>
+    <string name="job_running">Your job is running</string>
+    <string name="job_scheduled">Job Schedule</string>
+    <string name="no_constraint_toast">No Constraint</string>
+    <string name="seekbar_label">Seekbar Label</string>
+    <string name="not_set">Not Set</string>
+    <string name="periodic_interval">Periodic Interval</string>
+    <string name="override_deadline">Override Deadline</string>
+</resources>
