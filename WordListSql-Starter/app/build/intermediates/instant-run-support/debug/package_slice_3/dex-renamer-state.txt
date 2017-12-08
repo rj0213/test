@@ -1,0 +1,4 @@
+#Thu Dec 07 09:12:05 PHT 2017
+base.0=/Users/reueljohn/AndroidTesting/WordListSql-Starter/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

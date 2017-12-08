@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:16:1-38:12
+INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:16:1-38:12
+INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:16:1-38:12
+INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:16:1-38:12
+MERGED from [com.android.support:design:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/design-24.1.1.aar/aecc747904c8d34fb427b042928a8b1d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/f59e42a87b39773ff6d73d70d71c27bb/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.1.1.aar/e06aebd5221f09677d0d4ddbac3eaaec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/94dbcff1a96e31441c12c286911ea9d5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/d05de5751a0b5ddbf898ef7494aaf6f0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/76097ae1d3c63fa72167d6ba67a4cb6c/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:16:1-38:12
+INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:16:1-38:12
+INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:16:1-38:12
+	package
+		ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:18:5-46
+		INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:16:1-38:12
+		INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:16:1-38:12
+		INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:17:5-63
+application
+ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:20:5-36:19
+MERGED from [com.android.support:design:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/design-24.1.1.aar/aecc747904c8d34fb427b042928a8b1d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/design-24.1.1.aar/aecc747904c8d34fb427b042928a8b1d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/f59e42a87b39773ff6d73d70d71c27bb/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/f59e42a87b39773ff6d73d70d71c27bb/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/94dbcff1a96e31441c12c286911ea9d5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/94dbcff1a96e31441c12c286911ea9d5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/d05de5751a0b5ddbf898ef7494aaf6f0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/d05de5751a0b5ddbf898ef7494aaf6f0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/76097ae1d3c63fa72167d6ba67a4cb6c/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/76097ae1d3c63fa72167d6ba67a4cb6c/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.android.example.wordlistsql.MainActivity
+ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:26:9-33:20
+	android:name
+		ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:26:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:30:27-74
+activity#com.android.example.wordlistsql.EditWordActivity
+ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:34:9-63
+	android:name
+		ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml:34:19-51
+uses-sdk
+INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/design-24.1.1.aar/aecc747904c8d34fb427b042928a8b1d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/design-24.1.1.aar/aecc747904c8d34fb427b042928a8b1d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/f59e42a87b39773ff6d73d70d71c27bb/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/f59e42a87b39773ff6d73d70d71c27bb/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.1.1.aar/e06aebd5221f09677d0d4ddbac3eaaec/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.1.1.aar/e06aebd5221f09677d0d4ddbac3eaaec/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/94dbcff1a96e31441c12c286911ea9d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/94dbcff1a96e31441c12c286911ea9d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/d05de5751a0b5ddbf898ef7494aaf6f0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/d05de5751a0b5ddbf898ef7494aaf6f0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/76097ae1d3c63fa72167d6ba67a4cb6c/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/76097ae1d3c63fa72167d6ba67a4cb6c/AndroidManifest.xml:21:5-23:54
+INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] /Users/reueljohn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/f59e42a87b39773ff6d73d70d71c27bb/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/reueljohn/AndroidTesting/WordListSql-Starter/app/src/main/AndroidManifest.xml
